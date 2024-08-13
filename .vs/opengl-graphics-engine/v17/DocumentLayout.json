@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\opengl-graphics-engine\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A172A208-1FA1-4BDC-8ED1-5C736F865654}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A172A208-1FA1-4BDC-8ED1-5C736F865654}|opengl-graphics-engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAuwJQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T17:06:19.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

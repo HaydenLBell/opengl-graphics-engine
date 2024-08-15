@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A172A208-1FA1-4BDC-8ED1-5C736F865654}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A172A208-1FA1-4BDC-8ED1-5C736F865654}|opengl-graphics-engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|opengl-graphics-engine.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "shaderClass.cpp",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.cpp",
+              "RelativeToolTip": "shaderClass.cpp",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAlwFsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T11:48:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "shaderClass.h",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.h",
+              "RelativeDocumentMoniker": "shaderClass.h",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\shaderClass.h",
+              "RelativeToolTip": "shaderClass.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T17:25:22.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAuwJQAAAABAAAA",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv1gAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-13T17:06:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T11:19:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VAO.h",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.h",
+              "RelativeDocumentMoniker": "VAO.h",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VAO.h",
+              "RelativeToolTip": "VAO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T11:19:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VBO.h",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T11:19:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.vert",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T17:22:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.frag",
+              "DocumentMoniker": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "E:\\Dev\\Software Engineering\\Projects\\Graphics\\Render Engine\\opengl-graphics-engine\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T17:24:25.066Z",
               "EditorCaption": ""
             }
           ]
